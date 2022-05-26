@@ -64,3 +64,5 @@ The t-test shows, similar to the numerical descriptive results, that the average
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+  
+Given that the graphical descriptive, numerical descriptive, and inferential results all show that there is a difference between the VitC content of cabbages produced using the c39 and the c52 cultivating methods, we can conclude that the c39 and c52 cultivation methods produce cabbages with different VitC content.   
