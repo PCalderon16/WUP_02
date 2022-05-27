@@ -39,7 +39,7 @@ veggy <- cabbages
 boxplot(VitC~Cult,data=veggy)
 ```
   
-The average VitC content in cabbages cultivated using the c39 method is shown to be at about 50 while the VitC content in cabbages cultivated using the c52 method averages around 65. Overall, the range of VitC content is higher in c52 than c39.   
+The median value for the VitC content in cabbages cultivated using the c39 method is shown to be at about 50 units while the median value for the VitC content in cabbages cultivated using the c52 method is around 65 units. Overall, cabbages cultivated using the c52 method generally contain more VitC as shows by the box plot range that is higher than the range of the other method.  
   
 ### Numerical Descriptive Results
 
